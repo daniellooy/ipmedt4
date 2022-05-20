@@ -14,3 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::view('/{path?}', 'app');
+
+Route::resource("items", "ItemController");
