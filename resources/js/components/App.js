@@ -1,24 +1,30 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import { createBrowserHistory } from 'history'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
-function App() {
-    return (
-        <div className="container">
-            <div className="row justify-content-center">
-                <div className="col-md-8">
-                    <div className="card">
-                        <div className="card-header">Example Component</div>
-                        <div className="card-body">I'm an example component!</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        
-    );
+import Login from './Auth/Login';
+import NotFound from './NotFound';
+import Home from './Home/Home';
+import CreateItem from './CreateItem/CreateItem';
+
+import NavBar from './Layout/NavBar';
+
+const App = () => {
+  return (
+    <Router>
+      {/* navigatie */}
+      <NavBar/>
+
+      {/* de verschillende paginas er onder */}
+      <Routes history={createBrowserHistory}>
+        <Route exact path="/" element={<Home />} />
+        <Route path="/login" element={<Login />} />
+        <Route path="/createitem" element={<CreateItem />} />
+
+        {/* Als path niet bestaat, ga naar not found */}
+        <Route path="*" exact={true} element={<NotFound />} />
+      </Routes>
+    </Router>
+  );
 }
 
 export default App;
-
-if (document.getElementById('app')) {
-    ReactDOM.render(<App />, document.getElementById('app'));
-}
