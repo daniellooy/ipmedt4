@@ -13,6 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::view('/{path?}', 'app')->where('path', '.*');
+// Route::view('/{path?}', 'app')->where('path', '.*');
 
-Route::resource("items", "ItemController");
+// Route::resource("items", "ItemController");
