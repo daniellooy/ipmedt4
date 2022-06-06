@@ -14,12 +14,12 @@ class CreateBedrijvenTable extends Migration
     public function up()
     {
         Schema::create('bedrijven', function (Blueprint $table) {
-            $table->id();
+            $table->string("id");
             $table->string("category");
             $table->integer("riskindicator");
-            $table->float("longitude");
-            $table->float("latitude");
-            $table->string("status");
+            $table->string("longitude");
+            $table->string("latitude");
+            $table->boolean("status");
         });
     }
 
