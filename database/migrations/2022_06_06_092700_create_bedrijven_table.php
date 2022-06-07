@@ -14,7 +14,7 @@ class CreateBedrijvenTable extends Migration
     public function up()
     {
         Schema::create('bedrijven', function (Blueprint $table) {
-            $table->string("id");
+            $table->integer("id");
             $table->string("category");
             $table->integer("riskindicator");
             $table->string("longitude");

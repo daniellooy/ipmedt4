@@ -3,11 +3,12 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Models\Bedrijf;
 
 class BedrijfController extends Controller
 {
     public function index(){
-        $bedrijven = bedrijf::all();
+        $bedrijven = Bedrijf::all();
 
         return response()->json($bedrijven);
     }
