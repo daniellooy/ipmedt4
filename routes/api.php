@@ -20,4 +20,4 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 
 // Route::view('/{path?}', 'app')->where('path', '.*');
 
-Route::get('/test', [\App\Http\Controllers\ItemController::class, 'index']);
+Route::get('/bedrijven', [\App\Http\Controllers\BedrijfController::class, 'index']);
