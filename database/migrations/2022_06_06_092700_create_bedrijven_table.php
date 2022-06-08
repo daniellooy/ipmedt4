@@ -20,6 +20,10 @@ class CreateBedrijvenTable extends Migration
             $table->string("longitude");
             $table->string("latitude");
             $table->boolean("status");
+            $table->boolean("relevant");
+            $table->boolean("gepland");
+            $table->boolean("todo");
+            $table->boolean("plan");
         });
     }
 

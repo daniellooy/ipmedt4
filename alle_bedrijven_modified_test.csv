@@ -1,251 +1,251 @@
-id;category;riskindicator;longitude;latitude;status
-1;Supermarkten en dergelijke winkels met een algemeen assortiment voedings- en genotmiddelen;0;5,449275304;51,4453518;1
-2;Bemiddeling bij handel, huur of verhuur van onroerend goed;20;5,509236332;51,42868233;1
-3;Uitzendbureaus;20;5,527106665;51,4398707;1
-4;Financiële holdings;0;5,457610611;51,44861416;1
-5;Supermarkten en dergelijke winkels met een algemeen assortiment voedings- en genotmiddelen;0;5,485921254;51,47496654;1
-6;Restaurants;0;5,455735404;51,47271684;1
-7;Cafés;0;5,459298781;51,40770979;1
-8;Restaurants;0;5,452874772;51,47080065;1
-9;Restaurants;0;5,484431636;51,46683387;1
-10;Overige belangenbehartiging n.e.g.;0;5,453042789;51,45092664;1
-11;Installatie van verwarmings- en luchtbehandelingsapparatuur;40;5,477855834;51,44101832;1
-12;NA;0;5,461897513;51,44347508;1
-13;Politieke organisaties;0;5,524293342;51,44571409;1
-14;Verhuur van onroerend goed (niet van woonruimte);0;5,415841433;51,48265816;1
-15;Cafés;0;5,485286108;51,42166949;1
-16;Cafetaria's, lunchrooms, snackbars, eetkramen e.d.;0;5,393598627;51,45866522;1
-17;NA;0;5,417225932;51,43936691;1
-18;Handel in en reparatie van personenauto's en lichte bedrijfsauto's (geen import van nieuwe);0;5,489967819;51,42555049;1
-19;NA;0;5,44460452;51,47807904;1
-20;Kantines en contractcatering;0;5,447111504;51,433752;1
-21;Koeriers;40;5,490802978;51,441804;1
-22;NA;0;5,459973245;51,4812566;1
-23;Tennis;40;5,487864767;51,45471061;1
-24;Veldvoetbal;20;5,42278379;51,48390971;1
-25;NA;0;5,489275084;51,42410906;1
-26;Cafés;0;5,463297055;51,45180296;1
-27;Gezelligheidsverenigingen;20;5,48215965;51,43618578;1
-28;Cafetaria's, lunchrooms, snackbars, eetkramen e.d.;0;5,40163058;51,45355044;1
-29;Maatschappelijk werk;20;5,4790113;51,43601357;1
-30;NA;0;5,421228513;51,47825016;1
-31;Cafés;0;5,472481352;51,45123966;1
-32;Cafés;0;5,474926706;51,46812628;1
-33;Cafés;0;5,49436151;51,47020876;1
-34;NA;0;5,450502138;51,41102959;1
-35;Cafetaria's, lunchrooms, snackbars, eetkramen e.d.;0;5,474834656;51,47096115;1
-36;NA;0;5,461953068;51,42395213;1
-37;Koeriers;40;5,524301421;51,45260628;1
-38;NA;0;5,481022426;51,44410949;1
-39;Restaurants;0;5,439798748;51,47705953;1
-40;Projectontwikkeling;20;5,480336384;51,4175075;1
-41;Financiële holdings;0;5,431674045;51,42128559;1
-42;Financiële holdings;0;5,457229253;51,44818407;1
-43;Algemene metaalbewerking;20;5,443914341;51,47633074;1
-44;Individuele zaalsport;40;5,433194767;51,42833425;1
-45;Groothandel in verwarmingsapparaten;40;5,439024412;51,43728747;1
-46;Vervaardiging van hang- en sluitwerk;60;5,431172572;51,42241701;1
-47;Financiële holdings;0;5,524301421;51,45260628;1
-48;Handel in en reparatie van zwaardere bedrijfsauto's (geen import van nieuwe);0;5,479504337;51,44409975;1
-49;Kantines en contractcatering;0;5,458638808;51,4583709;1
-50;NA;0;5,430522359;51,42494017;1
-51;NA;0;5,492908573;51,43848791;0
-52;Dansscholen;60;5,478677993;51,43719173;0
-53;Financiële holdings;0;5,429816307;51,43717074;0
-54;Winkels in drogisterij-artikelen;20;5,483423788;51,43170797;0
-55;Groothandel in overige intermediaire producten n.e.g.;0;5,471614728;51,43865727;0
-56;NA;0;5,486450394;51,473753;0
-57;Bouwtimmeren;0;5,472065554;51,45252279;0
-58;Reparatie van elektrische apparatuur;0;5,492829499;51,42004439;0
-59;Schoonheidsverzorging, pedicures en manicures;0;5,485132339;51,43010409;0
-60;NA;0;5,515466733;51,44291679;0
-61;Ingenieurs en overig technisch ontwerp en advies;20;5,438842807;51,43351195;0
-62;NA;0;5,453457867;51,45147545;0
-63;Supermarkten en dergelijke winkels met een algemeen assortiment voedings- en genotmiddelen;0;5,470168799;51,44562868;0
-64;Financiële holdings;0;5,394224001;51,45795863;0
-65;Slopen van bouwwerken;0;5,452083537;51,43440302;0
-66;Organisatie-adviesbureaus;0;5,436980699;51,43684073;0
-67;Restaurants;0;5,393671622;51,45601052;0
-68;Cafetaria's, lunchrooms, snackbars, eetkramen e.d.;0;5,458370449;51,44215685;0
-69;Cafetaria's, lunchrooms, snackbars, eetkramen e.d.;0;5,473607587;51,44957993;0
-70;NA;0;5,493789837;51,48982992;0
-71;Theaters en schouwburgen;0;5,457721294;51,47797405;0
-72;Cafés;0;5,472814012;51,44420734;0
-73;Cafés;0;5,470989582;51,44814563;0
-74;Haarverzorging;20;5,472692865;51,44425847;0
-75;Restaurants;0;5,504976363;51,41937882;0
-76;Carrosserieherstel;80;5,471354065;51,43868134;0
-77;NA;0;5,474646843;51,44851273;0
-78;Winkels gespecialiseerd in overige artikelen n.e.g.;0;5,504218938;51,44379698;0
-79;NA;0;5,442095448;51,4758862;0
-80;Praktijken van tandartsen;60;5,479027046;51,43955347;0
-81;NA;0;5,497377785;51,42405491;0
-82;Groothandel in verf en verfwaren;0;5,401043176;51,4506959;0
-83;Belastingconsulenten;20;5,481150008;51,44148213;0
-84;Kunstzinnige vorming van amateurs (geen dansscholen);20;5,454238493;51,44140017;0
-85;NA;0;5,419175782;51,47988624;0
-86;Financiële holdings;0;5,468441875;51,42955984;0
-87;Speciaal basisonderwijs;0;5,488049408;51,43411646;0
-88;NA;0;5,485763831;51,42264249;0
-89;Cafés;0;5,429952744;51,43704597;0
-90;NA;0;5,473512583;51,44394856;0
-91;Handelsbemiddeling gespecialiseerd in overige goederen;20;5,454870318;51,43635962;0
-92;Vervaardiging van deuren, ramen en kozijnen van hout;0;5,480842502;51,47863314;0
-93;Vervaardiging van verpakkingsmiddelen van papier en karton;0;5,4984965;51,46608419;0
-94;Textielsupermarkten;0;5,478931272;51,43998787;0
-95;Textielsupermarkten;0;5,476425155;51,4687861;0
-96;Textielsupermarkten;0;5,466165368;51,44208643;0
-97;Restaurants;0;5,466457472;51,46519371;0
-98;Wegenbouw;0;5,467396161;51,43892084;0
-99;Financiële holdings;0;5,408997536;51,44255593;0
-100;Holdings (geen financiële);0;5,46253218;51,42698009;0
-101;Benzinestations;0;5,442609364;51,47578503;0
-102;Organiseren van congressen en beurzen;0;5,401043176;51,4506959;0
-103;Beleggingsinstellingen met beperkte toetreding;20;5,485224559;51,4763766;0
-104;NA;0;5,422801126;51,48583625;0
-105;Bedrijfs- en werkgeversorganisaties;40;5,43201156;51,43123042;0
-106;Technisch speur- en ontwikkelingswerk;0;5,47238474;51,44652087;0
-107;Overige bouwinstallatie;40;5,440994983;51,43319772;0
-108;Cafés;0;5,434020757;51,43688902;0
-109;NA;0;5,448758065;51,41473338;0
-110;Interieurreiniging van gebouwen;0;5,397641765;51,45500453;0
-111;Paardensport en maneges;80;5,394396094;51,45658969;0
-112;Advisering op het gebied van management en bedrijfsvoering (geen public relations en organisatie- adviesbureaus);0;5,509715808;51,43566109;0
-113;Kinderopvang en peuterspeelzaalwerk;0;5,499300592;51,41986851;0
-114;Niet-gespecialiseerde groothandel in consumentenartikelen;0;5,493894387;51,4900274;0
-115;Holdings (geen financiële);0;5,487240283;51,44501762;0
-116;Restaurants;0;5,45756702;51,4374897;0
-117;NA;0;5,488103147;51,43454997;0
-118;Handel in en reparatie van personenauto's en lichte bedrijfsauto's (geen import van nieuwe);0;5,470587886;51,46126589;0
-119;NA;0;5,483224277;51,43683764;0
-120;NA;0;5,455204261;51,4362852;0
-121;Bandenservicebedrijven;0;5,462871895;51,4788566;0
-122;Cafetaria's, lunchrooms, snackbars, eetkramen e.d.;0;5,47238474;51,44652087;0
-123;Cafés;0;5,473784017;51,44401398;0
-124;Operational lease van personenauto's en lichte bedrijfsauto's;60;5,481848373;51,47755528;0
-125;Groothandel in overige oude materialen en afvalstoffen;40;5,442566731;51,41932968;0
-126;Schoonheidsverzorging, pedicures en manicures;0;5,423057335;51,44395224;0
-127;Financiële holdings;0;5,401670724;51,45356469;0
-128;Lokaal welzijnswerk;20;5,484123454;51,45615216;0
-129;Gezelligheidsverenigingen;20;5,414741583;51,47844903;0
-130;Groothandel in huiden en vellen;0;5,426966562;51,48458448;0
-131;NA;0;5,475358437;51,46960166;0
-132;NA;0;5,402192142;51,46435077;0
-133;NA;0;5,465374671;51,41907793;0
-134;Praktijken van tandartsen;60;5,464966616;51,46325056;0
-135;NA;0;5,446538118;51,42798145;0
-136;Praktijken van medisch specialisten en medische dagbehandelcentra (geen tandheelkunde of psychiatrie);40;5,47419442;51,46017213;0
-137;NA;0;5,489488206;51,4521536;0
-138;NA;0;5,475291962;51,46888257;0
-139;NA;0;5,489087709;51,4268042;0
-140;Verhuur van personenauto's en lichte bedrijfsauto's (geen operational lease);0;5,441427981;51,48111176;0
-141;Handel in en reparatie van personenauto's en lichte bedrijfsauto's (geen import van nieuwe);0;5,433140754;51,42585512;0
-142;Financiële holdings;0;5,474819539;51,46940624;0
-143;NA;0;5,471076192;51,45121586;0
-144;Praktijken van medisch specialisten en medische dagbehandelcentra (geen tandheelkunde of psychiatrie);40;5,424295634;51,48632521;0
-145;Politie;0;5,460145421;51,44272782;0
-146;Financiële holdings;0;5,431836983;51,42405625;0
-147;Assurantietussenpersonen;0;5,477968457;51,44059526;0
-148;Cafetaria's, lunchrooms, snackbars, eetkramen e.d.;0;5,503422682;51,43628229;0
-149;NA;0;5,477833415;51,43905004;0
-150;NA;0;5,474315529;51,48386999;0
-151;Gezelligheidsverenigingen;20;5,474943973;51,44868409;0
-152;Gesorteerd materiaal voorbereiden tot recycling;80;5,502951374;51,44566081;0
-153;NA;0;5,539761143;51,43230147;0
-154;Financiële holdings;0;5,450894674;51,48303678;0
-155;Supermarkten en dergelijke winkels met een algemeen assortiment voedings- en genotmiddelen;0;5,459967266;51,44450652;0
-156;NA;0;5,45411003;51,48888286;0
-157;Wassalons en -verzendinrichtingen;0;5,446453605;51,41903971;0
-158;Cafetaria's, lunchrooms, snackbars, eetkramen e.d.;0;5,441592908;51,47686912;0
-159;Restaurants;0;5,454464507;51,47702557;0
-160;Overige belangenbehartiging n.e.g.;0;5,491434416;51,43247507;0
-161;Cafetaria's, lunchrooms, snackbars, eetkramen e.d.;0;5,472867426;51,44410377;0
-162;NA;0;5,470017231;51,45332134;0
-163;Individuele zaalsport;40;5,475731855;51,46677384;0
-164;NA;0;5,404047376;51,45009783;0
-165;Groothandel in elektronische en telecommunicatieapparatuur en bijbehorende onderdelen;0;5,448640357;51,42893161;0
-166;Praktijken van tandartsen;60;5,402782876;51,45434854;0
-167;Financiële holdings;0;5,502513578;51,43373727;0
-168;Financiële holdings;0;5,417225932;51,43936691;0
-169;Restaurants;0;5,44023125;51,47944397;0
-170;Landschapsverzorging;0;5,476787904;51,43595447;0
-171;Restaurants;0;5,483592737;51,43975688;0
-172;Cafetaria's, lunchrooms, snackbars, eetkramen e.d.;0;5,482743755;51,41605946;0
-173;NA;0;5,492168783;51,44378687;0
-174;NA;0;5,429485876;51,43929025;0
-175;NA;0;5,47924295;51,4640834;0
-176;Groothandel in overige consumentenartikelen (non-food) n.e.g.;0;5,422367919;51,46338315;0
-177;NA;0;5,423197965;51,48284144;0
-178;Reparatie van specifieke auto-onderdelen;0;5,418273016;51,48045918;0
-179;Restaurants;0;5,44655799;51,42801447;0
-180;Hotel-restaurants;60;5,483224277;51,43683764;0
-181;Kantines en contractcatering;0;5,44109366;51,43928238;0
-182;Ingenieurs en overig technisch ontwerp en advies;20;5,456850789;51,4371527;0
-183;Winkels in speelgoed;20;5,502513578;51,43373727;0
-184;Kinderopvang en peuterspeelzaalwerk;0;5,486068218;51,4262264;0
-185;Handel in en reparatie van personenauto's en lichte bedrijfsauto's (geen import van nieuwe);0;5,481187622;51,43970138;0
-186;Industrieel en productontwerp;20;5,475728162;51,46847564;0
-187;Overige dienstverlening n.e.g.;0;5,429816307;51,43717074;0
-188;NA;0;5,466176937;51,43032172;0
-189;Groothandel in overige consumentenartikelen (non-food) n.e.g.;0;5,445061179;51,47199394;0
-190;Draadloze telecommunicatie;40;5,465599508;51,43076322;0
-191;Winkels in bloemen en planten, zaden en tuinbenodigdheden;0;5,43219372;51,41926577;0
-192;Supermarkten en dergelijke winkels met een algemeen assortiment voedings- en genotmiddelen;0;5,479877724;51,46121294;0
-193;Steunfondsen (niet op het gebied van welzijnszorg);0;5,481022426;51,44410949;0
-194;Notariskantoren;0;5,483224277;51,43683764;0
-195;Financiële holdings;0;5,455348803;51,4265908;0
-196;Algemene ziekenhuizen;0;5,473476726;51,46129519;0
-197;NA;0;5,429689954;51,42317836;0
-198;Praktijken van tandartsen;60;5,390709924;51,45581434;0
-199;Keuring en controle van machines, apparaten en materialen;0;5,475326475;51,47071643;0
-200;Restaurants;0;5,481144706;51,43652657;0
-201;Fotografie;0;5,447829507;51,43263347;0
-202;Winkels gespecialiseerd in overige doe-het-zelfartikelen;20;5,458026311;51,45171964;0
-203;Detailhandel via postorder en internet in huis- en tuinartikelen;20;5,443763472;51,43737609;0
-204;Handel in en reparatie van personenauto's en lichte bedrijfsauto's (geen import van nieuwe);0;5,454684599;51,43744754;0
-205;Reparatie van specifieke auto-onderdelen;0;5,503777716;51,41980926;0
-206;NA;0;5,467956337;51,42900681;0
-207;Supermarkten en dergelijke winkels met een algemeen assortiment voedings- en genotmiddelen;0;5,430800258;51,43494749;0
-208;Groothandel in overige oude materialen en afvalstoffen;40;5,477995886;51,44052366;0
-209;Groothandel in overige oude materialen en afvalstoffen;40;5,478362952;51,43558044;0
-210;Dienstverlening voor vervoer over land;40;5,396007933;51,46063206;0
-211;Financiële holdings;0;5,519875042;51,44796192;0
-212;Basisonderwijs voor leerplichtigen;60;5,455472041;51,4266677;0
-213;NA;0;5,481191032;51,43666731;0
-214;Restaurants;0;5,449541788;51,43874599;0
-215;NA;0;5,483224277;51,43683764;0
-216;Winkels in audio- en videoapparatuur;20;5,480812063;51,43680722;0
-217;Schoonheidsverzorging, pedicures en manicures;0;5,440768393;51,48162882;0
-218;Fitnesscentra;0;5,496514804;51,4362713;0
-219;Tandtechnische bedrijven;60;5,447176996;51,43459294;0
-220;Lokaal welzijnswerk;20;5,492161305;51,42428664;0
-221;Lokaal welzijnswerk;20;5,457374171;51,44881774;0
-222;Overige belangenbehartiging n.e.g.;0;5,479439114;51,43769242;0
-223;Winkels in buitenlandse voedingsmiddelen;40;5,486590484;51,44183594;0
-224;Restaurants;0;5,493787256;51,47693379;0
-225;NA;0;5,493420174;51,45486007;0
-226;Cafés;0;5,472416469;51,46061782;0
-227;Restaurants;0;5,477067736;51,43751896;0
-228;Cafetaria's, lunchrooms, snackbars, eetkramen e.d.;0;5,490724819;51,4256544;0
-229;Verhuur van onroerend goed (niet van woonruimte);0;5,464056947;51,44907343;0
-230;NA;0;5,474366073;51,44735122;0
-231;Benzinestations;0;5,493607858;51,42648674;0
-232;Verhuur van overige consumentenartikelen n.e.g.;20;5,4427631;51,4385047;0
-233;Cafetaria's, lunchrooms, snackbars, eetkramen e.d.;0;5,460098604;51,47791278;0
-234;onbekend;0;5,467396161;51,43892084;0
-235;NA;0;5,486652173;51,47179249;0
-236;NA;0;5,478497823;51,44015365;0
-237;NA;0;5,522346017;51,44678079;0
-238;Reclamebureaus;0;5,486244308;51,47636713;0
-239;NA;0;5,445410097;51,4307448;0
-240;Auto- en motorrijscholen;0;5,43446464;51,43359258;0
-241;Markthandel in aardappelen, groenten en fruit;0;5,493534034;51,47718753;0
-242;Auto-onderdelenservicebedrijven;0;5,483067049;51,4357628;0
-243;Ingenieurs en overig technisch ontwerp en advies;20;5,512693406;51,44472767;0
-244;NA;0;5,478476987;51,46131872;0
-245;Restaurants;0;5,483224277;51,43683764;0
-246;Groothandel in dranken (geen zuivel);40;5,475085912;51,43888124;0
-247;NA;0;5,499821809;51,4227987;0
-248;Winkels in fietsen en bromfietsen;40;5,472920898;51,44402355;0
-249;NA;0;5,485725182;51,425191;0
-250;Thuiszorg;20;5,476806522;51,45152306;0
+id;category;riskindicator;longitude;latitude;status;relevant;gepland;todo;plan
+1;Supermarkten en dergelijke winkels met een algemeen assortiment voedings- en genotmiddelen;0;5,449275304;51,4453518;1;1;1;0;0
+2;Bemiddeling bij handel, huur of verhuur van onroerend goed;20;5,509236332;51,42868233;1;1;1;0;0
+3;Uitzendbureaus;20;5,527106665;51,4398707;1;1;1;0;0
+4;Financiële holdings;0;5,457610611;51,44861416;1;1;1;0;0
+5;Supermarkten en dergelijke winkels met een algemeen assortiment voedings- en genotmiddelen;0;5,485921254;51,47496654;1;1;1;0;0
+6;Restaurants;0;5,455735404;51,47271684;1;1;1;0;0
+7;Cafés;0;5,459298781;51,40770979;1;1;1;0;0
+8;Restaurants;0;5,452874772;51,47080065;1;1;1;0;0
+9;Restaurants;0;5,484431636;51,46683387;1;1;1;0;0
+10;Overige belangenbehartiging n.e.g.;0;5,453042789;51,45092664;1;1;1;0;0
+11;Installatie van verwarmings- en luchtbehandelingsapparatuur;40;5,477855834;51,44101832;1;1;1;0;0
+12;NA;0;5,461897513;51,44347508;1;1;1;0;0
+13;Politieke organisaties;0;5,524293342;51,44571409;1;1;1;0;0
+14;Verhuur van onroerend goed (niet van woonruimte);0;5,415841433;51,48265816;1;1;1;0;0
+15;Cafés;0;5,485286108;51,42166949;1;1;1;0;0
+16;Cafetaria's, lunchrooms, snackbars, eetkramen e.d.;0;5,393598627;51,45866522;1;1;1;0;0
+17;NA;0;5,417225932;51,43936691;1;1;1;0;0
+18;Handel in en reparatie van personenauto's en lichte bedrijfsauto's (geen import van nieuwe);0;5,489967819;51,42555049;1;1;1;0;0
+19;NA;0;5,44460452;51,47807904;1;1;1;0;0
+20;Kantines en contractcatering;0;5,447111504;51,433752;1;1;1;0;0
+21;Koeriers;40;5,490802978;51,441804;1;1;1;0;0
+22;NA;0;5,459973245;51,4812566;1;1;1;0;0
+23;Tennis;40;5,487864767;51,45471061;1;1;1;0;0
+24;Veldvoetbal;20;5,42278379;51,48390971;1;1;1;0;0
+25;NA;0;5,489275084;51,42410906;1;1;1;0;0
+26;Cafés;0;5,463297055;51,45180296;1;1;1;0;0
+27;Gezelligheidsverenigingen;20;5,48215965;51,43618578;1;1;1;0;0
+28;Cafetaria's, lunchrooms, snackbars, eetkramen e.d.;0;5,40163058;51,45355044;1;1;1;0;0
+29;Maatschappelijk werk;20;5,4790113;51,43601357;1;1;1;0;0
+30;NA;0;5,421228513;51,47825016;1;1;1;0;0
+31;Cafés;0;5,472481352;51,45123966;1;1;1;0;0
+32;Cafés;0;5,474926706;51,46812628;1;1;1;0;0
+33;Cafés;0;5,49436151;51,47020876;1;1;1;0;0
+34;NA;0;5,450502138;51,41102959;1;1;1;0;0
+35;Cafetaria's, lunchrooms, snackbars, eetkramen e.d.;0;5,474834656;51,47096115;1;1;1;0;0
+36;NA;0;5,461953068;51,42395213;1;1;1;0;0
+37;Koeriers;40;5,524301421;51,45260628;1;1;1;0;0
+38;NA;0;5,481022426;51,44410949;1;1;1;0;0
+39;Restaurants;0;5,439798748;51,47705953;1;1;1;0;0
+40;Projectontwikkeling;20;5,480336384;51,4175075;1;1;1;0;0
+41;Financiële holdings;0;5,431674045;51,42128559;1;1;1;0;0
+42;Financiële holdings;0;5,457229253;51,44818407;1;1;1;0;0
+43;Algemene metaalbewerking;20;5,443914341;51,47633074;1;1;1;0;0
+44;Individuele zaalsport;40;5,433194767;51,42833425;1;1;1;0;0
+45;Groothandel in verwarmingsapparaten;40;5,439024412;51,43728747;1;1;1;0;0
+46;Vervaardiging van hang- en sluitwerk;60;5,431172572;51,42241701;1;1;1;0;0
+47;Financiële holdings;0;5,524301421;51,45260628;1;1;1;0;0
+48;Handel in en reparatie van zwaardere bedrijfsauto's (geen import van nieuwe);0;5,479504337;51,44409975;1;1;1;0;0
+49;Kantines en contractcatering;0;5,458638808;51,4583709;1;1;1;0;0
+50;NA;0;5,430522359;51,42494017;1;1;1;0;0
+51;NA;0;5,492908573;51,43848791;0;1;1;0;0
+52;Dansscholen;60;5,478677993;51,43719173;0;1;1;0;0
+53;Financiële holdings;0;5,429816307;51,43717074;0;1;1;0;0
+54;Winkels in drogisterij-artikelen;20;5,483423788;51,43170797;0;1;1;0;0
+55;Groothandel in overige intermediaire producten n.e.g.;0;5,471614728;51,43865727;0;1;1;0;0
+56;NA;0;5,486450394;51,473753;0;1;1;0;0
+57;Bouwtimmeren;0;5,472065554;51,45252279;0;1;1;0;0
+58;Reparatie van elektrische apparatuur;0;5,492829499;51,42004439;0;1;1;0;0
+59;Schoonheidsverzorging, pedicures en manicures;0;5,485132339;51,43010409;0;1;1;0;0
+60;NA;0;5,515466733;51,44291679;0;1;1;0;0
+61;Ingenieurs en overig technisch ontwerp en advies;20;5,438842807;51,43351195;0;1;1;0;0
+62;NA;0;5,453457867;51,45147545;0;1;1;0;0
+63;Supermarkten en dergelijke winkels met een algemeen assortiment voedings- en genotmiddelen;0;5,470168799;51,44562868;0;1;1;0;0
+64;Financiële holdings;0;5,394224001;51,45795863;0;1;1;0;0
+65;Slopen van bouwwerken;0;5,452083537;51,43440302;0;1;1;0;0
+66;Organisatie-adviesbureaus;0;5,436980699;51,43684073;0;1;1;0;0
+67;Restaurants;0;5,393671622;51,45601052;0;1;1;0;0
+68;Cafetaria's, lunchrooms, snackbars, eetkramen e.d.;0;5,458370449;51,44215685;0;1;1;0;0
+69;Cafetaria's, lunchrooms, snackbars, eetkramen e.d.;0;5,473607587;51,44957993;0;1;1;0;0
+70;NA;0;5,493789837;51,48982992;0;1;1;0;0
+71;Theaters en schouwburgen;0;5,457721294;51,47797405;0;1;1;0;0
+72;Cafés;0;5,472814012;51,44420734;0;1;1;0;0
+73;Cafés;0;5,470989582;51,44814563;0;1;1;0;0
+74;Haarverzorging;20;5,472692865;51,44425847;0;1;1;0;0
+75;Restaurants;0;5,504976363;51,41937882;0;1;1;0;0
+76;Carrosserieherstel;80;5,471354065;51,43868134;0;1;1;0;0
+77;NA;0;5,474646843;51,44851273;0;1;1;0;0
+78;Winkels gespecialiseerd in overige artikelen n.e.g.;0;5,504218938;51,44379698;0;1;1;0;0
+79;NA;0;5,442095448;51,4758862;0;1;1;0;0
+80;Praktijken van tandartsen;60;5,479027046;51,43955347;0;1;1;0;0
+81;NA;0;5,497377785;51,42405491;0;1;1;0;0
+82;Groothandel in verf en verfwaren;0;5,401043176;51,4506959;0;1;1;0;0
+83;Belastingconsulenten;20;5,481150008;51,44148213;0;1;1;0;0
+84;Kunstzinnige vorming van amateurs (geen dansscholen);20;5,454238493;51,44140017;0;1;1;0;0
+85;NA;0;5,419175782;51,47988624;0;1;1;0;0
+86;Financiële holdings;0;5,468441875;51,42955984;0;1;1;0;0
+87;Speciaal basisonderwijs;0;5,488049408;51,43411646;0;1;1;0;0
+88;NA;0;5,485763831;51,42264249;0;1;1;0;0
+89;Cafés;0;5,429952744;51,43704597;0;1;1;0;0
+90;NA;0;5,473512583;51,44394856;0;1;1;0;0
+91;Handelsbemiddeling gespecialiseerd in overige goederen;20;5,454870318;51,43635962;0;1;1;0;0
+92;Vervaardiging van deuren, ramen en kozijnen van hout;0;5,480842502;51,47863314;0;1;1;0;0
+93;Vervaardiging van verpakkingsmiddelen van papier en karton;0;5,4984965;51,46608419;0;1;1;0;0
+94;Textielsupermarkten;0;5,478931272;51,43998787;0;1;1;0;0
+95;Textielsupermarkten;0;5,476425155;51,4687861;0;1;1;0;0
+96;Textielsupermarkten;0;5,466165368;51,44208643;0;1;1;0;0
+97;Restaurants;0;5,466457472;51,46519371;0;1;1;0;0
+98;Wegenbouw;0;5,467396161;51,43892084;0;1;1;0;0
+99;Financiële holdings;0;5,408997536;51,44255593;0;1;1;0;0
+100;Holdings (geen financiële);0;5,46253218;51,42698009;0;1;1;0;0
+101;Benzinestations;0;5,442609364;51,47578503;0;1;1;0;0
+102;Organiseren van congressen en beurzen;0;5,401043176;51,4506959;0;1;1;0;0
+103;Beleggingsinstellingen met beperkte toetreding;20;5,485224559;51,4763766;0;1;1;0;0
+104;NA;0;5,422801126;51,48583625;0;1;1;0;0
+105;Bedrijfs- en werkgeversorganisaties;40;5,43201156;51,43123042;0;1;1;0;0
+106;Technisch speur- en ontwikkelingswerk;0;5,47238474;51,44652087;0;1;1;0;0
+107;Overige bouwinstallatie;40;5,440994983;51,43319772;0;1;1;0;0
+108;Cafés;0;5,434020757;51,43688902;0;1;1;0;0
+109;NA;0;5,448758065;51,41473338;0;1;1;0;0
+110;Interieurreiniging van gebouwen;0;5,397641765;51,45500453;0;1;1;0;0
+111;Paardensport en maneges;80;5,394396094;51,45658969;0;1;1;0;0
+112;Advisering op het gebied van management en bedrijfsvoering (geen public relations en organisatie- adviesbureaus);0;5,509715808;51,43566109;0;1;1;0;0
+113;Kinderopvang en peuterspeelzaalwerk;0;5,499300592;51,41986851;0;1;1;0;0
+114;Niet-gespecialiseerde groothandel in consumentenartikelen;0;5,493894387;51,4900274;0;1;0;0;0
+115;Holdings (geen financiële);0;5,487240283;51,44501762;0;1;0;0;0
+116;Restaurants;0;5,45756702;51,4374897;0;1;0;0;0
+117;NA;0;5,488103147;51,43454997;0;1;0;0;0
+118;Handel in en reparatie van personenauto's en lichte bedrijfsauto's (geen import van nieuwe);0;5,470587886;51,46126589;0;1;0;0;0
+119;NA;0;5,483224277;51,43683764;0;1;0;0;0
+120;NA;0;5,455204261;51,4362852;0;1;0;0;0
+121;Bandenservicebedrijven;0;5,462871895;51,4788566;0;1;0;0;0
+122;Cafetaria's, lunchrooms, snackbars, eetkramen e.d.;0;5,47238474;51,44652087;0;1;0;0;0
+123;Cafés;0;5,473784017;51,44401398;0;1;0;0;0
+124;Operational lease van personenauto's en lichte bedrijfsauto's;60;5,481848373;51,47755528;0;1;0;0;0
+125;Groothandel in overige oude materialen en afvalstoffen;40;5,442566731;51,41932968;0;1;0;0;0
+126;Schoonheidsverzorging, pedicures en manicures;0;5,423057335;51,44395224;0;1;0;0;0
+127;Financiële holdings;0;5,401670724;51,45356469;0;1;0;0;0
+128;Lokaal welzijnswerk;20;5,484123454;51,45615216;0;1;0;0;0
+129;Gezelligheidsverenigingen;20;5,414741583;51,47844903;0;1;0;0;0
+130;Groothandel in huiden en vellen;0;5,426966562;51,48458448;0;1;0;0;0
+131;NA;0;5,475358437;51,46960166;0;1;0;0;0
+132;NA;0;5,402192142;51,46435077;0;1;0;0;0
+133;NA;0;5,465374671;51,41907793;0;1;0;0;0
+134;Praktijken van tandartsen;60;5,464966616;51,46325056;0;1;0;0;0
+135;NA;0;5,446538118;51,42798145;0;1;0;0;0
+136;Praktijken van medisch specialisten en medische dagbehandelcentra (geen tandheelkunde of psychiatrie);40;5,47419442;51,46017213;0;1;0;0;0
+137;NA;0;5,489488206;51,4521536;0;1;0;0;0
+138;NA;0;5,475291962;51,46888257;0;1;0;0;0
+139;NA;0;5,489087709;51,4268042;0;1;0;0;0
+140;Verhuur van personenauto's en lichte bedrijfsauto's (geen operational lease);0;5,441427981;51,48111176;0;1;0;0;0
+141;Handel in en reparatie van personenauto's en lichte bedrijfsauto's (geen import van nieuwe);0;5,433140754;51,42585512;0;1;0;0;0
+142;Financiële holdings;0;5,474819539;51,46940624;0;1;0;0;0
+143;NA;0;5,471076192;51,45121586;0;1;0;0;0
+144;Praktijken van medisch specialisten en medische dagbehandelcentra (geen tandheelkunde of psychiatrie);40;5,424295634;51,48632521;0;1;0;0;0
+145;Politie;0;5,460145421;51,44272782;0;1;0;0;0
+146;Financiële holdings;0;5,431836983;51,42405625;0;1;0;0;0
+147;Assurantietussenpersonen;0;5,477968457;51,44059526;0;1;0;0;0
+148;Cafetaria's, lunchrooms, snackbars, eetkramen e.d.;0;5,503422682;51,43628229;0;1;0;0;0
+149;NA;0;5,477833415;51,43905004;0;1;0;0;0
+150;NA;0;5,474315529;51,48386999;0;1;0;0;0
+151;Gezelligheidsverenigingen;20;5,474943973;51,44868409;0;1;0;0;0
+152;Gesorteerd materiaal voorbereiden tot recycling;80;5,502951374;51,44566081;0;1;0;0;0
+153;NA;0;5,539761143;51,43230147;0;1;0;0;0
+154;Financiële holdings;0;5,450894674;51,48303678;0;1;0;0;0
+155;Supermarkten en dergelijke winkels met een algemeen assortiment voedings- en genotmiddelen;0;5,459967266;51,44450652;0;1;0;0;0
+156;NA;0;5,45411003;51,48888286;0;1;0;0;0
+157;Wassalons en -verzendinrichtingen;0;5,446453605;51,41903971;0;1;0;0;0
+158;Cafetaria's, lunchrooms, snackbars, eetkramen e.d.;0;5,441592908;51,47686912;0;1;0;0;0
+159;Restaurants;0;5,454464507;51,47702557;0;1;0;0;0
+160;Overige belangenbehartiging n.e.g.;0;5,491434416;51,43247507;0;1;0;0;0
+161;Cafetaria's, lunchrooms, snackbars, eetkramen e.d.;0;5,472867426;51,44410377;0;1;0;0;0
+162;NA;0;5,470017231;51,45332134;0;1;0;0;0
+163;Individuele zaalsport;40;5,475731855;51,46677384;0;1;0;0;0
+164;NA;0;5,404047376;51,45009783;0;1;0;0;0
+165;Groothandel in elektronische en telecommunicatieapparatuur en bijbehorende onderdelen;0;5,448640357;51,42893161;0;1;0;0;0
+166;Praktijken van tandartsen;60;5,402782876;51,45434854;0;1;0;0;0
+167;Financiële holdings;0;5,502513578;51,43373727;0;1;0;0;0
+168;Financiële holdings;0;5,417225932;51,43936691;0;1;0;0;0
+169;Restaurants;0;5,44023125;51,47944397;0;1;0;0;0
+170;Landschapsverzorging;0;5,476787904;51,43595447;0;1;0;0;0
+171;Restaurants;0;5,483592737;51,43975688;0;1;0;0;0
+172;Cafetaria's, lunchrooms, snackbars, eetkramen e.d.;0;5,482743755;51,41605946;0;1;0;0;0
+173;NA;0;5,492168783;51,44378687;0;1;0;0;0
+174;NA;0;5,429485876;51,43929025;0;1;0;0;0
+175;NA;0;5,47924295;51,4640834;0;1;0;0;0
+176;Groothandel in overige consumentenartikelen (non-food) n.e.g.;0;5,422367919;51,46338315;0;1;0;0;0
+177;NA;0;5,423197965;51,48284144;0;1;0;0;0
+178;Reparatie van specifieke auto-onderdelen;0;5,418273016;51,48045918;0;1;0;0;0
+179;Restaurants;0;5,44655799;51,42801447;0;1;0;0;0
+180;Hotel-restaurants;60;5,483224277;51,43683764;0;1;0;0;0
+181;Kantines en contractcatering;0;5,44109366;51,43928238;0;1;0;0;0
+182;Ingenieurs en overig technisch ontwerp en advies;20;5,456850789;51,4371527;0;1;0;0;0
+183;Winkels in speelgoed;20;5,502513578;51,43373727;0;1;0;0;0
+184;Kinderopvang en peuterspeelzaalwerk;0;5,486068218;51,4262264;0;1;0;0;0
+185;Handel in en reparatie van personenauto's en lichte bedrijfsauto's (geen import van nieuwe);0;5,481187622;51,43970138;0;1;0;0;0
+186;Industrieel en productontwerp;20;5,475728162;51,46847564;0;1;0;0;0
+187;Overige dienstverlening n.e.g.;0;5,429816307;51,43717074;0;1;0;0;0
+188;NA;0;5,466176937;51,43032172;0;1;0;0;0
+189;Groothandel in overige consumentenartikelen (non-food) n.e.g.;0;5,445061179;51,47199394;0;1;0;0;0
+190;Draadloze telecommunicatie;40;5,465599508;51,43076322;0;1;0;0;0
+191;Winkels in bloemen en planten, zaden en tuinbenodigdheden;0;5,43219372;51,41926577;0;1;0;0;0
+192;Supermarkten en dergelijke winkels met een algemeen assortiment voedings- en genotmiddelen;0;5,479877724;51,46121294;0;1;0;0;0
+193;Steunfondsen (niet op het gebied van welzijnszorg);0;5,481022426;51,44410949;0;1;0;0;0
+194;Notariskantoren;0;5,483224277;51,43683764;0;1;0;0;0
+195;Financiële holdings;0;5,455348803;51,4265908;0;1;0;0;0
+196;Algemene ziekenhuizen;0;5,473476726;51,46129519;0;1;0;0;0
+197;NA;0;5,429689954;51,42317836;0;1;0;0;0
+198;Praktijken van tandartsen;60;5,390709924;51,45581434;0;1;0;0;0
+199;Keuring en controle van machines, apparaten en materialen;0;5,475326475;51,47071643;0;1;0;0;0
+200;Restaurants;0;5,481144706;51,43652657;0;1;0;0;0
+201;Fotografie;0;5,447829507;51,43263347;0;1;0;0;0
+202;Winkels gespecialiseerd in overige doe-het-zelfartikelen;20;5,458026311;51,45171964;0;1;0;0;0
+203;Detailhandel via postorder en internet in huis- en tuinartikelen;20;5,443763472;51,43737609;0;1;0;0;0
+204;Handel in en reparatie van personenauto's en lichte bedrijfsauto's (geen import van nieuwe);0;5,454684599;51,43744754;0;1;0;0;0
+205;Reparatie van specifieke auto-onderdelen;0;5,503777716;51,41980926;0;1;0;0;0
+206;NA;0;5,467956337;51,42900681;0;1;0;0;0
+207;Supermarkten en dergelijke winkels met een algemeen assortiment voedings- en genotmiddelen;0;5,430800258;51,43494749;0;1;0;0;0
+208;Groothandel in overige oude materialen en afvalstoffen;40;5,477995886;51,44052366;0;1;0;0;0
+209;Groothandel in overige oude materialen en afvalstoffen;40;5,478362952;51,43558044;0;1;0;0;0
+210;Dienstverlening voor vervoer over land;40;5,396007933;51,46063206;0;1;0;0;0
+211;Financiële holdings;0;5,519875042;51,44796192;0;1;0;0;0
+212;Basisonderwijs voor leerplichtigen;60;5,455472041;51,4266677;0;1;0;0;0
+213;NA;0;5,481191032;51,43666731;0;1;0;0;0
+214;Restaurants;0;5,449541788;51,43874599;0;1;0;0;0
+215;NA;0;5,483224277;51,43683764;0;1;0;0;0
+216;Winkels in audio- en videoapparatuur;20;5,480812063;51,43680722;0;1;0;0;0
+217;Schoonheidsverzorging, pedicures en manicures;0;5,440768393;51,48162882;0;1;0;0;0
+218;Fitnesscentra;0;5,496514804;51,4362713;0;1;0;0;0
+219;Tandtechnische bedrijven;60;5,447176996;51,43459294;0;1;0;0;0
+220;Lokaal welzijnswerk;20;5,492161305;51,42428664;0;1;0;0;0
+221;Lokaal welzijnswerk;20;5,457374171;51,44881774;0;1;0;0;0
+222;Overige belangenbehartiging n.e.g.;0;5,479439114;51,43769242;0;1;0;0;0
+223;Winkels in buitenlandse voedingsmiddelen;40;5,486590484;51,44183594;0;1;0;0;0
+224;Restaurants;0;5,493787256;51,47693379;0;1;0;0;0
+225;NA;0;5,493420174;51,45486007;0;1;0;0;0
+226;Cafés;0;5,472416469;51,46061782;0;1;0;0;0
+227;Restaurants;0;5,477067736;51,43751896;0;1;0;0;0
+228;Cafetaria's, lunchrooms, snackbars, eetkramen e.d.;0;5,490724819;51,4256544;0;1;0;0;0
+229;Verhuur van onroerend goed (niet van woonruimte);0;5,464056947;51,44907343;0;1;0;0;0
+230;NA;0;5,474366073;51,44735122;0;1;0;0;0
+231;Benzinestations;0;5,493607858;51,42648674;0;1;0;0;0
+232;Verhuur van overige consumentenartikelen n.e.g.;20;5,4427631;51,4385047;0;1;0;0;0
+233;Cafetaria's, lunchrooms, snackbars, eetkramen e.d.;0;5,460098604;51,47791278;0;1;0;0;0
+234;onbekend;0;5,467396161;51,43892084;0;1;0;0;0
+235;NA;0;5,486652173;51,47179249;0;1;0;0;0
+236;NA;0;5,478497823;51,44015365;0;1;0;0;0
+237;NA;0;5,522346017;51,44678079;0;1;0;0;0
+238;Reclamebureaus;0;5,486244308;51,47636713;0;1;0;0;0
+239;NA;0;5,445410097;51,4307448;0;1;0;0;0
+240;Auto- en motorrijscholen;0;5,43446464;51,43359258;0;1;0;0;0
+241;Markthandel in aardappelen, groenten en fruit;0;5,493534034;51,47718753;0;1;0;0;0
+242;Auto-onderdelenservicebedrijven;0;5,483067049;51,4357628;0;1;0;0;0
+243;Ingenieurs en overig technisch ontwerp en advies;20;5,512693406;51,44472767;0;1;0;0;0
+244;NA;0;5,478476987;51,46131872;0;1;0;0;0
+245;Restaurants;0;5,483224277;51,43683764;0;1;0;0;0
+246;Groothandel in dranken (geen zuivel);40;5,475085912;51,43888124;0;1;0;0;0
+247;NA;0;5,499821809;51,4227987;0;1;0;0;0
+248;Winkels in fietsen en bromfietsen;40;5,472920898;51,44402355;0;1;0;0;0
+249;NA;0;5,485725182;51,425191;0;1;0;0;0
+250;Thuiszorg;20;5,476806522;51,45152306;0;1;0;0;0
