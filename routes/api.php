@@ -21,3 +21,5 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 // Route::view('/{path?}', 'app')->where('path', '.*');
 
 Route::get('/bedrijven', [\App\Http\Controllers\BedrijfController::class, 'index']);
+
+Route::post('/addTodo', [App\Http\Controllers\BedrijfController::class, 'storeTodo']);

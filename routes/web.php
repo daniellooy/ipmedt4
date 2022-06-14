@@ -16,3 +16,5 @@ use Illuminate\Support\Facades\Route;
 // Route::view('/{path?}', 'app')->where('path', '.*');
 
 // Route::resource("items", "ItemController");
+
+// Route::post('/addTodo', [App\Http\Controllers\BedrijfController::class, 'storeTodo']);
