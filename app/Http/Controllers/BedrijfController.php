@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Models\Bedrijf;
+use DB;
 
 class BedrijfController extends Controller
 {
@@ -14,16 +15,19 @@ class BedrijfController extends Controller
     }
 
     public function storeTodo(Request $request){
-        error_log("banaan");
-        // return $request->id;
 
         DB::table("bedrijven")->where("id", $request->id)->update(["todo" => 1]);
 
-        return "banaan";
+        // return "banaan";
 
-        // $bedrijf = Bedrijf::find($request->id);
-        // $bedrijf->todo = 1;
-        // $bedrijf->save();
-        
+    }
+
+    public function storeToplan(Request $request){
+
+        DB::table("bedrijven")->where("id", $request->id)->update(["plan" => 1]);
+        DB::table("bedrijven")->where("id", $request->id)->update(["todo" => 0]);
+
+        // return "banaan";
+
     }
 }

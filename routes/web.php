@@ -18,3 +18,4 @@ use Illuminate\Support\Facades\Route;
 // Route::resource("items", "ItemController");
 
 // Route::post('/addTodo', [App\Http\Controllers\BedrijfController::class, 'storeTodo']);
+
